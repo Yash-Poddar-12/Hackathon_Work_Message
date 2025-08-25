@@ -23,4 +23,4 @@ To build a smart energy monitoring and forecasting system that:
 - Designed system architecture for pipelining energy based on source availability
 - Built data visualizations to represent energy trends and predictions
 
-## 📂 Project Structure (Planned / Partial)
+
